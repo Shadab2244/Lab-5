@@ -3,4 +3,5 @@ tot = int(input())
 
 for i in range(tot):
     print("Hello World!")
-jsusuisisd
+    Shadab and Najam are good friends
+    
